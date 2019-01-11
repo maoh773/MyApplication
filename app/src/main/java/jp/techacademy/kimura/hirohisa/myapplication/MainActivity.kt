@@ -18,7 +18,6 @@ class MainActivity : AppCompatActivity() {
         human2.say()
         human2.think()
 
-
     }
 
 }
